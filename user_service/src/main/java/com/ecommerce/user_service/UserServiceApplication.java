@@ -1,4 +1,4 @@
-package com.ecomerce.user_service;
+package com.ecommerce.user_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

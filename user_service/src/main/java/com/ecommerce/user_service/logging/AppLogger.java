@@ -1,4 +1,4 @@
-package com.ecomerce.user_service.logging;
+package com.ecommerce.user_service.logging;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

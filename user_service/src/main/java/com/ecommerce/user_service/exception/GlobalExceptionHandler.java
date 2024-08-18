@@ -1,4 +1,4 @@
-package com.ecomerce.user_service.exception;
+package com.ecommerce.user_service.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
